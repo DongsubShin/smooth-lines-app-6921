@@ -1,0 +1,18 @@
+{
+  "projectId": "c5e6c10d",
+  "appName": "smooth-lines-app",
+  "businessName": "Smooth Lines",
+  "features": [
+    "booking",
+    "client-crm",
+    "sms-reminders"
+  ],
+  "businessInfo": {
+    "name": "Smooth Lines",
+    "address": "Phoenix, AZ",
+    "barber_count": 3,
+    "booking_system": "Booksy"
+  },
+  "generatedDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/smooth-lines-app-c7941cfc",
+  "createdAt": "2026-03-09T16:41:12.752Z"
+}

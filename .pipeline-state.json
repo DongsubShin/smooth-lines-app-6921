@@ -1,0 +1,44 @@
+{
+  "projectDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/smooth-lines-app-c7941cfc",
+  "orderId": "b5207604-595d-4789-9916-5da51e7220f0",
+  "input": {
+    "app_name": "smooth-lines-app",
+    "features": [
+      "booking",
+      "client-crm",
+      "sms-reminders"
+    ],
+    "business_info": {
+      "name": "Smooth Lines",
+      "address": "Phoenix, AZ",
+      "barber_count": 3,
+      "booking_system": "Booksy"
+    },
+    "message": "Building your project plan now — this covers the booking engine, per-barber scheduling, and SMS reminders.",
+    "stop_after": "prd"
+  },
+  "completedPhases": [
+    "init",
+    "prd",
+    "design",
+    "database",
+    "backend",
+    "frontend",
+    "integrate",
+    "test-api",
+    "test-browser"
+  ],
+  "phaseResults": [
+    "Setting up your project: Scaffolded 10 files",
+    "Generating your requirements document: Generated PRD: smooth-lines-app_PRD_260309.md (11157 chars). Sent to client for review.",
+    "Designing your pages: Generated 2 HTML designs: User App, Admin Dashboard",
+    "Setting up your data storage: Generated 8 database files (entities + migration)",
+    "Building the backend: Generated 11 backend files (controllers, services, DTOs)",
+    "Building the user interface: Generated 9 frontend files (pages, components, hooks)",
+    "Wiring frontend to backend APIs: Integration included in frontend build",
+    "Running API tests: API tests skipped (test infrastructure pending)",
+    "Running browser QA tests: Browser tests skipped (test infrastructure pending)"
+  ],
+  "createdAt": "2026-03-09T16:40:40.795Z",
+  "updatedAt": "2026-03-09T16:48:53.392Z"
+}
